@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Trình Tạo Bảng Tên Học Sinh V2025.1",
+  "description": "Một ứng dụng chuyên nghiệp giúp giáo viên tạo bảng tên học sinh (CMHS) nhanh chóng, hỗ trợ xuất file PDF khổ A4 với 5 bảng tên mỗi trang.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
